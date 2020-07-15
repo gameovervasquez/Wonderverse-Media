@@ -1,0 +1,192 @@
+  #wonderimage{
+    width:100%;
+    height:250px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+  }
+  body{
+    background:#363636;
+  }
+  h1{
+    color:white;
+  }
+  p{
+    color:white;
+  }
+  h2{
+    color:white;
+  }
+  hr.style-one {
+    border: 0;
+    height: 1px;
+    color:white;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+}
+.card-title{
+  color:white;
+}
+.card-img-top{
+  width:100%;
+  height:250px;
+  object-fit:cover;
+}
+.img-thumbnail {
+  width:15rem;
+  height:13rem;
+  object-fit:cover;
+  border:0;
+  background:transparent;
+  display:block;
+  margin:0 auto;
+  border-radius:10px;
+}
+
+.con {
+  text-align: center;
+  padding-top: 8%;
+  color:white;
+}
+.con2{
+  text-align:center;
+  padding-top:5%;
+}
+/*.polaroid{
+  text-align:center;
+}*/
+.members{
+ text-align:center;
+}
+
+.members2{
+ text-align:center;
+ padding-top:20px;
+}
+
+.mem{
+  height:15rem;
+  width:15rem;
+}
+
+.names{
+  padding-bottom:4rem;
+}
+.btn-default {
+    color: white;
+    background-color: #B10000;
+    border:none;
+}
+
+.btn-default:hover {
+    color: white;
+    background-color: #000000;
+    border: none;
+    transition: .4s ease;
+}
+
+.patchabout{
+  height: 20rem;
+  width:20rem;
+}
+
+.contactus{
+  color:white;
+}
+
+.gimmespace{
+  margin-bottom: 5rem;
+}
+.aboutsec{
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.linkspace{
+  left: 10rem;
+}
+
+.btn-twitch {
+    color: white;
+    background-color: #6C00A6;
+    border:none;
+}
+
+.btn-twitch:hover {
+    color: white;
+    background-color: #4C0174;
+    border: none;
+    transition: .4s ease;
+}
+.btn-twitter {
+    color: white;
+    background-color: #007FB1;
+    border:none;
+}
+
+.btn-twitter:hover {
+    color: white;
+    background-color: #006086;
+    border: none;
+    transition: .4s ease;
+}
+
+.btn-insta {
+    color: white;
+    background-color: #A4008B;
+    border:none;
+}
+
+.btn-insta:hover {
+    color: white;
+    background-color: #730061;
+    border: none;
+    transition: .4s ease;
+}
+
+.linkline{
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+/*.overlay {
+  align-items: center;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  position: ;
+  right: 0;
+  top: 0;
+  z-index: 1;
+  position: relative;
+  bottom:0;
+  overflow: hidden;
+  top:0;
+  left:10rem;
+  right:10rem;
+  height:10%;
+  width:15rem;*/
+/*  top: 0;
+  bottom: 0;
+  left: 10rem;
+  right: 10rem;
+  height: 15rem;
+  width: 15.1rem;
+  width:15.1rem;
+  left:9.8rem;
+  opacity: 0;
+  border-radius:100%;
+  transition: .5s ease;
+  background-color: #a82727;
+}*/
+
+/*.members:hover .overlay {
+  opacity: 1;
+}*/
+
+/*.meet {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);*/
